@@ -1,6 +1,6 @@
 # Greater London Railway Map — Final Clean Edition
 
-This is the final clean-up of the existing Greater London Railway Map (v24 baseline), not the proposed new organisational atlas.
+This is the final clean-up of the existing Greater London Railway Map (v24 baseline).
 
 ## Changes
 - Removed Clapham-specific study-area navigation and endpoint/topology audit controls and code.
